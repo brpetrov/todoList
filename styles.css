@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+background: skyblue;
+}
+
+.main {
+  margin: 1.5rem auto;
+  height: 100%;
+  width:60%;
+  padding: 4rem;
+  border-radius: 30px;
+  background: white;
+}
+
+.main h1{
+  font-size: 3rem;
+  color: orange;
+  margin: 0;
+}
+
+.edition{
+  font-size: 0.8rem;
+  margin-bottom: 0.5rem;
+}
+
+#task {
+  font-size: 1.3rem;
+  padding: 0.5rem;
+  border: 0.1rem solid orange;
+  border-radius: 15px;
+  background: whitesmoke;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.button {
+  background: whitesmoke;
+  padding: 0.4rem 0.8rem;
+  font-size: 1.6rem;
+  border-radius: 30px;
+border: 0.1rem solid orange;
+  color: orange;
+  margin-bottom: 2rem;
+}
+
+li{
+  margin: 1rem auto;
+  font-size: 1.3rem;
+  padding: 1rem;
+  max-width: 50%;
+  border: 0.1rem solid orange;
+  border-radius: 25px;
+  background: whitesmoke;
+
+}
