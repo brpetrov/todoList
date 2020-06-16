@@ -65,3 +65,10 @@ li{
   background: whitesmoke;
 
 }
+
+
+.disabled{
+  background-color: gray;
+  border-color: gray;
+  color: black;
+}
